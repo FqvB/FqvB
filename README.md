@@ -13,10 +13,10 @@ Most of my client and company code is private. I'm happy to walk through it in a
 
 ### Stack
 
-**Backend:** Python, FastAPI, PostgreSQL, Alembic, AWS Lambda / API Gateway
-**Mobile and web:** Swift / SwiftUI, React Native / Expo, TypeScript
-**Integrations and data:** Hansa World / Standard ERP, Power BI
-**Hardware:** Arduino
+- **Backend:** Python, FastAPI, PostgreSQL, Alembic, AWS Lambda / API Gateway
+- **Mobile and web:** Swift / SwiftUI, React Native / Expo, TypeScript
+- **Integrations and data:** Hansa World / Standard ERP, Power BI
+- **Hardware:** Arduino
 
 ### Outside code
 
