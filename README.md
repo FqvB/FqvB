@@ -5,8 +5,8 @@ Software developer from Riga, Latvia. I build business software end to end: back
 ### What I'm working on
 
 - **King Coffee Service / Rocket Bean.** I build the company's internal ERP and KPI systems, including integrations with Hansa World / Standard ERP and reporting in Power BI. Work runs in sprints.
-- **[Kineto Group](https://kineto.lv).** Co-founder. We're building a sports venue booking app for Riga, plus a separate web app for venue owners. We also built a golf club app and admin panel that runs at Ozo Golf Club, where I trained the reception staff on it. Our team won the Baltic final of Samsung Solve for Tomorrow.
-- **mbranch.** My software contracting company. I specialise in ERP / Hansa World integrations.
+- **[Kineto Group](https://kineto.lv).** Co-founder. We're building a sports venue booking app for Riga, plus a separate web app for venue owners. Our team won the Baltic final of Samsung Solve for Tomorrow.
+- **mbranch.** My software contracting company. I specialise in ERP / Hansa World integrations. We also built the member app and admin panel that runs at Ozo Golf Club, where I trained the reception staff on it.
 - **[Reps](https://github.com/FqvB/reps).** A personal iOS app that counts golf practice shots and putts through the camera. Native Swift, with an on-device ML swing classifier that I'm training myself.
 
 Most of my client and company code is private. I'm happy to walk through it in an interview.
